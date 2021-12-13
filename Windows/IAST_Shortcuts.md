@@ -16,7 +16,7 @@ The following are the letters supported by the English (India) keyboard on Windo
 
 <br/>
 
-The remaining letters of the alphabet can be included using [this](IAST.ahk) AutoHotKey script as follows:
+The remaining letters of the alphabet can be included using [this](IAST.ahk) AutoHotKey script are:
 
 | Letter | Shortcut                     | Devanāgarī Equivalent |
 |--------|------------------------------|-----------------------|
